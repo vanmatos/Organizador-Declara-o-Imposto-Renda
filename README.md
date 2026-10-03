@@ -6,6 +6,14 @@ Aplicação desenvolvida em Excel para auxiliar na organização de informaçõe
 
 A ferramenta permite registrar rendimentos, informes bancários e deduções legais ao longo do ano, facilitando a preparação das informações para a declaração ou o encaminhamento a um contador.
 
+---
+
+<p align="center">
+  <img src="images/LexRenda.png" alt="LexRenda" width="90%">
+</p>
+
+---
+
 ## 🔎 Funcionalidades
 
 * Cadastro de informações do titular.
